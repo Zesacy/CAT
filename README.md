@@ -8,7 +8,7 @@
 
 ### 项目组成员
 饶欣哲<br>
-鲁帅雄<br>
+鲁帅雄（Zesacy）<br>
 王临远（TreeNode09）<br>
 肖逍（qmzhn1912）
 
